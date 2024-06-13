@@ -11,7 +11,7 @@
 <h3 align="left">🙋‍♂️💻  About Me</h3><br>
 
 
-👋 Hi there! I'm Vinicius Merli, a Database Reliability Engineering Manager passionate about leading teams in building reliable and scalable systems.
+👋 I'm Vinicius Merli, a Database Reliability Engineering Manager passionate about leading teams in building reliable and scalable systems.
 
 🔧 Responsible for ensuring availability, performance, and security of critical databases at Loggi.
 
