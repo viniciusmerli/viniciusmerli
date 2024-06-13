@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Database reliability in focus. Welcome!"🚀 </h1><br>
+<h1 align="left">Database reliability in focus. Welcome!"🚀 </h1><br>
 
 ###
 
