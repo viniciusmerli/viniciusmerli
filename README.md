@@ -37,8 +37,6 @@ I'm Vinicius Merli, a Database Reliability Engineering Manager passionate about 
     <img src="https://img.icons8.com/color/48/000000/docker.png" height="32" alt="Docker logo" />
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="32" alt="AWS Cloud logo" />
     <img src="https://img.icons8.com/color/48/000000/python.png" height="32" alt="Python logo" />
-<img src="https://img.icons8.com/color/48/000000/terraform.png" height="32" alt="Terraform logo" />
-
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" height="32" alt="Visual Studio Code logo" />
 </div> <br>
 
