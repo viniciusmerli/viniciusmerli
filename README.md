@@ -1,28 +1,21 @@
 ###
 
-<h1 align="left">Database reliability in focus. Welcome!"🚀 </h1><br>
+<h1 align="left">Infrastructure and Database Reliability in Focus. Welcome! 🚀</h1><br>
 
-###
+<h3 align="left">🙋‍♂️💻 About Me</h3><br>
 
+I'm Vinicius Merli, a Site Reliability Engineering (SRE) and Database Reliability Engineering (DBRE) Manager, passionate about leading teams to build reliable, scalable, and high-performance systems.
 
+🔧 Responsible for ensuring the availability, performance, and security of critical infrastructure and databases at Loggi.
 
+💻 Experienced in architecture, strategic planning, and implementing robust solutions for both database and infrastructure management.
 
+📈 Guiding teams in adopting best practices in SRE and DBRE, process automation, and scalability strategies.
 
-<h3 align="left">🙋‍♂️💻  About Me</h3><br>
-
-
-I'm Vinicius Merli, a Database Reliability Engineering Manager passionate about leading teams in building reliable and scalable systems.
-
-
-🔧 Responsible for ensuring availability, performance, and security of critical databases at Loggi.
-
-💻 Experienced in databases architecture, strategic planning, and implementing robust database management solutions.
-
-📈 Guiding teams in adopting best practices in DBRE, process automation, and scalability strategies.
-
-💡 Let's collaborate to achieve operational excellence and resilience in our databases systems!
+💡 Let's collaborate to achieve operational excellence and resilience across systems!
 
 <br>
+
 
 <h3 align="left">🛠 Stacks and tools</h3><br>
 
