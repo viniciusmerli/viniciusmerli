@@ -4,7 +4,7 @@
 
 <h3 align="left">🙋‍♂️💻 About Me</h3><br>
 
-I'm Vinicius Merli, a Site Reliability Engineering (SRE) and Database Reliability Engineering (DBRE) Manager, passionate about leading teams to build reliable, scalable, and high-performance systems.
+I'm Vinicius Merli, a Site Reliability Engineering (SRE) Manager and Database Reliability Engineering (DBRE) Manager, passionate about leading teams to build reliable, scalable, and high-performance systems.
 
 🔧 Responsible for ensuring the availability, performance, and security of critical infrastructure and databases at Loggi.
 
